@@ -1,0 +1,18 @@
+{
+    "name": "omnilight/yz",
+    "description": "Yz Engine is the Yii framework extension",
+    "minimum-stability": "dev",
+    "type": "yii-extension",
+    "authors": [
+        {
+            "name": "Pavel Agalecky",
+            "email": "pavel.agalecky@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "yiisoft/yii": "1.1.14",
+        "yiiext/migrate-command": "*",
+        "yiiext/activerecord-relation-behavior": "*"
+    }
+}
